@@ -1,6 +1,6 @@
 # 🎮 Simon Says on FPGA (DE1-SoC)
 
-For our **ECE243: Computer Organization** final project (Mar 2025 – May 2025), my partner **Tara Sangra** and I designed and implemented a fully functional, interactive **Simon Says memory game** on the **DE1-SoC FPGA** using C and hardware peripherals.  
+For our **ECE243: Computer Organization** final project (Mar 2025 – May 2025), my partner **Tara Sangra** and I designed and implemented a fully functional, interactive **Simon Says memory game** on the **DE1-SoC FPGA** using C.  
 
 This project combined **software and hardware design**, allowing us to bring concepts from computer organization, embedded systems, and digital design into a fun and engaging game.  
 
