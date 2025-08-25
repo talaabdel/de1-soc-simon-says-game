@@ -37,7 +37,7 @@ This project combined **software and hardware design**, allowing us to bring con
 ---
 
 ## 🙌 Reflections  
-This was such a **rewarding project** — blending hardware and software in a hands-on challenge that pushed us to apply everything we learned in **ECE243**. Watching the game come to life on the FPGA was an amazing experience!  
+This was such a **rewarding project** that allowed me to blend hardware and software in a hands-on challenge that pushed us to apply everything we learned in **ECE243**. Watching the game come to life on the FPGA was an amazing experience!  
 
 ---
 
